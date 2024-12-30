@@ -9,3 +9,9 @@ To play, run the menu.py file.
 To navigate the **start menu**, please use W,A,S,D to move and choose one of the options. To **select**, press the SPACE bar. 
 #### GENERAL PLAY
 To move up and down, use the W and A keys; use A and D to move left and right. To jump, press the SPACE bar. 
+
+![image](https://github.com/user-attachments/assets/f98f8b8b-8928-4d8c-b1a1-1238370705d2)
+![image](https://github.com/user-attachments/assets/eb1d915d-4796-42ca-91f5-7cc6cc521c92)
+![image](https://github.com/user-attachments/assets/77485c18-883b-46da-9822-bea2a591e5cc)
+![image](https://github.com/user-attachments/assets/8e168ec5-c7bd-408a-8a67-f4f9bb7f9c43)
+![image](https://github.com/user-attachments/assets/49f112f7-a631-45f0-b97c-bec44ccd6fb8)
